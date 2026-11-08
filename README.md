@@ -6,7 +6,7 @@ A proposal for monitoring batch fermentation in school labs, developed with a te
 
 ## From the course to the proposal
 
-I completed the Technical University of Denmark's *Introduction to Industrial Bioprocess Development* course on Coursera in August 2026. Studying batch, fed-batch, and continuous fermentation led me to ask which measurements a school lab could collect with simpler, less expensive equipment. [Course outline](https://www.coursera.org/learn/industrial-bioprocess-development) · [Course certificates](#course-certificates)
+I completed the Technical University of Denmark's *Introduction to Industrial Bioprocess Development* course on Coursera on August 20, 2026. Studying batch, fed-batch, and continuous fermentation led me to ask which measurements a school lab could collect with simpler, less expensive equipment. [Course outline](https://www.coursera.org/learn/industrial-bioprocess-development) · [Course certificates](#course-certificates)
 
 ## What I proposed
 
@@ -41,13 +41,19 @@ I received Third Prize at the 2026 Youth AI Leadership Speech Challenge on Augus
 
 ### Introduction to Industrial Bioprocess Development
 
-Technical University of Denmark (DTU) · August 20, 2026 · [Verify on Coursera](https://www.coursera.org/verify/44AEBELSZSOE)
+Technical University of Denmark (DTU)
+
+- **Completed August 20, 2026** · [Verify on Coursera](https://www.coursera.org/verify/44AEBELSZSOE)
+- **Estimated course workload** · 2 weeks at 10 hours per week · [Course page](https://www.coursera.org/learn/industrial-bioprocess-development)
 
 <a href="assets/dtu-bioprocess-course-certificate.png"><img src="assets/dtu-bioprocess-course-certificate.png" alt="DTU bioprocess development course certificate for Wenhao Jia" width="520"></a>
 
 ### General Biology
 
-BITS Pilani · October 24, 2026 · [Verify on Coursera](https://www.coursera.org/verify/MT8PPZYCO4KV)
+BITS Pilani
+
+- **Completed October 24, 2026** · [Verify on Coursera](https://www.coursera.org/verify/MT8PPZYCO4KV)
+- **Estimated course workload** · 2 months at 10 hours per week · [Course page](https://www.coursera.org/learn/general-biology-odc)
 
 <a href="assets/general-biology-course-certificate.png"><img src="assets/general-biology-course-certificate.png" alt="BITS Pilani general biology course certificate for Wenhao Jia" width="520"></a>
 
