@@ -6,7 +6,7 @@ A proposal for monitoring batch fermentation in school labs, developed with a te
 
 ## From the course to the proposal
 
-I completed the Technical University of Denmark's *Introduction to Industrial Bioprocess Development* course on Coursera on August 20, 2026. Studying batch, fed-batch, and continuous fermentation led me to ask which measurements a school lab could collect with simpler, less expensive equipment. [Course outline](https://www.coursera.org/learn/industrial-bioprocess-development) · [Course certificates](#course-certificates)
+I completed the Technical University of Denmark's *Introduction to Industrial Bioprocess Development* course on Coursera on August 20, 2026. I worked through the equations and concepts behind batch, fed-batch, and continuous fermentation. That led me to ask which measurements school labs could collect with low-cost sensors when they lack industrial monitoring equipment. [Course outline](https://www.coursera.org/learn/industrial-bioprocess-development) · [Course certificates](#course-certificates)
 
 ## What I proposed
 
@@ -44,7 +44,7 @@ I received Third Prize at the 2026 Youth AI Leadership Speech Challenge on Augus
 Technical University of Denmark (DTU)
 
 - **Completed August 20, 2026** · [Verify on Coursera](https://www.coursera.org/verify/44AEBELSZSOE)
-- **Estimated course workload** · 20 hours total · [Course page](https://www.coursera.org/learn/industrial-bioprocess-development)
+- **Personal study time** · 35 hours total · [Course page](https://www.coursera.org/learn/industrial-bioprocess-development)
 
 <a href="assets/dtu-bioprocess-course-certificate.png"><img src="assets/dtu-bioprocess-course-certificate.png" alt="DTU bioprocess development course certificate for Wenhao Jia" width="520"></a>
 
