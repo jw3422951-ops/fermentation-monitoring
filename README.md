@@ -44,7 +44,7 @@ I received Third Prize at the 2026 Youth AI Leadership Speech Challenge on Augus
 Technical University of Denmark (DTU)
 
 - **Completed August 20, 2026** · [Verify on Coursera](https://www.coursera.org/verify/44AEBELSZSOE)
-- **Estimated course workload** · 2 weeks at 10 hours per week · [Course page](https://www.coursera.org/learn/industrial-bioprocess-development)
+- **Estimated course workload** · 20 hours total · [Course page](https://www.coursera.org/learn/industrial-bioprocess-development)
 
 <a href="assets/dtu-bioprocess-course-certificate.png"><img src="assets/dtu-bioprocess-course-certificate.png" alt="DTU bioprocess development course certificate for Wenhao Jia" width="520"></a>
 
@@ -53,7 +53,7 @@ Technical University of Denmark (DTU)
 BITS Pilani
 
 - **Completed October 24, 2026** · [Verify on Coursera](https://www.coursera.org/verify/MT8PPZYCO4KV)
-- **Estimated course workload** · 2 months at 10 hours per week · [Course page](https://www.coursera.org/learn/general-biology-odc)
+- **Estimated course workload** · 80 hours total · [Course page](https://www.coursera.org/learn/general-biology-odc)
 
 <a href="assets/general-biology-course-certificate.png"><img src="assets/general-biology-course-certificate.png" alt="BITS Pilani general biology course certificate for Wenhao Jia" width="520"></a>
 
