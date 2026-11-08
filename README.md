@@ -1,8 +1,10 @@
 # Low-Cost Fermentation Monitoring for Schools
 
-A proposal for monitoring batch fermentation in school labs, developed with a teammate and informed by my independent study of industrial bioprocessing.
+How could a school lab follow a batch of yeast fermentation with low-cost sensors? I developed the monitoring proposal and used the Monod model to explain the biology behind it. My teammate was responsible for the BioMarket portion of our presentation.
 
 **Third Prize · 2026 Youth AI Leadership Speech Challenge**
+
+[Monitoring proposal](#what-i-proposed) · [Monod model](#monod-model) · [Future research](#future-research) · [Award](#award) · [Course certificates](#course-certificates)
 
 ## From the course to the proposal
 
@@ -27,9 +29,9 @@ $$
 
 In a batch, the model predicts that growth slows as yeast uses up the limiting substrate. I proposed using sensor logs to compare how batches change over time. Estimating the model's parameters would require measurements or calibrated estimates of both substrate concentration and yeast growth.
 
-## Contributions
+## Future research
 
-I worked on the fermentation monitoring proposal, including the use of low-cost sensors and Monod kinetics. My teammate was responsible for the BioMarket portion of the presentation.
+I plan to use sensor readings to document when yeast fermentation departs from a baseline. By comparing batches under known conditions, I want to test whether different causes of unusual fermentation produce distinct, repeatable patterns in the readings.
 
 ## Award
 
