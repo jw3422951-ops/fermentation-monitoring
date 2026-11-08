@@ -1,14 +1,14 @@
-# Low-Cost Fermentation Monitoring for Schools
+# Low-Cost Fermentation Monitoring Proposal for Schools
 
 How could a school lab follow a batch of yeast fermentation with low-cost sensors? I developed the monitoring proposal and used the Monod model to explain the biology behind it. My teammate was responsible for the BioMarket portion of our presentation.
 
 **Third Prize · 2026 Youth AI Leadership Speech Challenge**
 
-[Monitoring proposal](#what-i-proposed) · [Monod model](#monod-model) · [Future research](#future-research) · [Award](#award) · [Course certificates](#course-certificates)
+[Monitoring proposal](#what-i-proposed) · [Monod model](#monod-model) · [Future research](#future-research) · [Award](#award) · [Course certificates](https://github.com/jw3422951-ops#course-certificates)
 
 ## From the course to the proposal
 
-I completed the Technical University of Denmark's *Introduction to Industrial Bioprocess Development* course on Coursera on August 20, 2026. I worked through the equations and concepts behind batch, fed-batch, and continuous fermentation. That led me to ask which measurements school labs could collect with low-cost sensors when they lack industrial monitoring equipment. [Course outline](https://www.coursera.org/learn/industrial-bioprocess-development) · [Course certificates](#course-certificates)
+I completed the Technical University of Denmark's *Introduction to Industrial Bioprocess Development* course on Coursera on August 20, 2026. I worked through the equations and concepts behind batch, fed-batch, and continuous fermentation. That led me to ask which measurements school labs could collect with low-cost sensors when they lack industrial monitoring equipment. [Course outline](https://www.coursera.org/learn/industrial-bioprocess-development) · [Course certificates](https://github.com/jw3422951-ops#course-certificates)
 
 ## What I proposed
 
@@ -38,25 +38,5 @@ I plan to use sensor readings to document when yeast fermentation departs from a
 I received Third Prize at the 2026 Youth AI Leadership Speech Challenge on August 30, 2026. The certificate lists my name as **Vincent Wen** due to a name error. I use **Vincent** as my English given name and **Wenhao Jia** on my portfolio.
 
 <a href="assets/speech-challenge-third-prize.jpg"><img src="assets/speech-challenge-third-prize.jpg" alt="Third Prize certificate from the 2026 Youth AI Leadership Speech Challenge" width="420"></a>
-
-## Course certificates
-
-### Introduction to Industrial Bioprocess Development
-
-Technical University of Denmark (DTU)
-
-- **Completed August 20, 2026** · [Verify on Coursera](https://www.coursera.org/verify/44AEBELSZSOE)
-- **Personal study time** · 35 hours total · [Course page](https://www.coursera.org/learn/industrial-bioprocess-development)
-
-<a href="assets/dtu-bioprocess-course-certificate.png"><img src="assets/dtu-bioprocess-course-certificate.png" alt="DTU bioprocess development course certificate for Wenhao Jia" width="520"></a>
-
-### General Biology
-
-BITS Pilani
-
-- **Completed October 24, 2026** · [Verify on Coursera](https://www.coursera.org/verify/MT8PPZYCO4KV)
-- **Estimated course workload** · 80 hours total · [Course page](https://www.coursera.org/learn/general-biology-odc)
-
-<a href="assets/general-biology-course-certificate.png"><img src="assets/general-biology-course-certificate.png" alt="BITS Pilani general biology course certificate for Wenhao Jia" width="520"></a>
 
 [Back to my GitHub profile](https://github.com/jw3422951-ops)
