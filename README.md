@@ -4,11 +4,11 @@ How could a school lab follow a batch of yeast fermentation with low-cost sensor
 
 **Third Prize · 2026 Youth AI Leadership Speech Challenge**
 
-[Monitoring proposal](#what-i-proposed) · [Monod model](#monod-model) · [Future research](#future-research) · [Award](#award) · [Course certificates](https://github.com/jw3422951-ops#course-certificates)
+[Monitoring proposal](#what-i-proposed) · [Monod model](#monod-model) · [Future research](#future-research) · [Award](#award)
 
 ## From the course to the proposal
 
-I completed the Technical University of Denmark's *Introduction to Industrial Bioprocess Development* course on Coursera on August 20, 2026. I worked through the equations and concepts behind batch, fed-batch, and continuous fermentation. That led me to ask which measurements school labs could collect with low-cost sensors when they lack industrial monitoring equipment. [Course outline](https://www.coursera.org/learn/industrial-bioprocess-development) · [Course certificates](https://github.com/jw3422951-ops#course-certificates)
+I completed the Technical University of Denmark's *Introduction to Industrial Bioprocess Development* course on Coursera on August 20, 2026. I worked through the equations and concepts behind batch, fed-batch, and continuous fermentation. That led me to ask which measurements school labs could collect with low-cost sensors when they lack industrial monitoring equipment. [Course outline](https://www.coursera.org/learn/industrial-bioprocess-development)
 
 ## What I proposed
 
